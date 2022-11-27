@@ -66,6 +66,10 @@ if ($mysqli->connect_error) {
 </head>
  
 <body>
+    <body>
+  <img src="images/sales_pie.jpg">
+    </img>
+  </body>
     <section>
         <h1>Sales Report Table</h1>
         <!-- TABLE CONSTRUCTION -->
@@ -104,7 +108,6 @@ if ($mysqli->connect_error) {
             ?>
         </table>
         </section>
-
     
 </body>
  
